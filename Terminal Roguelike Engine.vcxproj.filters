@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Terminal Roguelike Engine.cpp">
+    <ClCompile Include="source\Terminal Roguelike Engine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
